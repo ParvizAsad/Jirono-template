@@ -1,1 +1,1 @@
-# Jirono FrontEnd_Project
+# Code Academy FrontEnd Project - Jirono template
